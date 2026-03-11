@@ -1,0 +1,24 @@
+# Global Humanitarian Funding Gap Dashboard (2015–2026)
+
+## Overview
+This project analyzes global humanitarian financing trends using Power BI dashboards.
+
+## Objective
+- Compare humanitarian funding requirements with received funding
+- Identify major funding gaps
+- Examine crisis response coverage rates
+
+## Tools
+Power BI  
+Excel  
+DAX
+
+## Key Insights
+- Humanitarian funding requirements have increased significantly over time.
+- Funding consistently lags behind needs.
+- Across the dataset approximately $418B was required but only $208B was received.
+
+## Files Included
+Power BI dashboard (.pbix)  
+Dataset (.xlsx)  
+Dashboard screenshots
